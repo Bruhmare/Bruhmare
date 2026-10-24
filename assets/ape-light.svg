@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+<rect width="1200" height="210" fill="#F3F0E8"/>
+<line x1="48" y1="1" x2="1152" y2="1" stroke="#151515" stroke-width="1.5"/>
+<text x="48" y="96" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="72" letter-spacing="-3" fill="#E4572E">01</text>
+<text x="220" y="66" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" letter-spacing="-1.2" fill="#151515">Ape for Good</text>
+<text x="1152" y="60" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="1" fill="#6E6A61">EVERY GOFUNDME, ON-CHAIN.</text>
+<g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#6E6A61"><text x="220" y="112">Launch a pump.fun coin for any public fundraiser. Trading fees land in that</text><text x="220" y="136">fundraiser's own escrow, and only the verified organizer can claim them.</text></g>
+<rect x="220" y="160" width="73" height="28" fill="none" stroke="#151515" stroke-width="1.2"/><text x="229" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#151515">SOLANA</text><rect x="303.2" y="160" width="92" height="28" fill="none" stroke="#151515" stroke-width="1.2"/><text x="312.2" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#151515">PUMP.FUN</text><rect x="404.79999999999995" y="160" width="156" height="28" fill="none" stroke="#151515" stroke-width="1.2"/><text x="413.79999999999995" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#151515">OPEN-SOURCE API</text>
+<text x="1152" y="180" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="1" fill="#151515">VIEW REPO →</text>
+</svg>

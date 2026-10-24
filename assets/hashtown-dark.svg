@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+<rect width="1200" height="210" fill="#121211"/>
+<line x1="48" y1="1" x2="1152" y2="1" stroke="#ECE8DE" stroke-width="1.5"/>
+<text x="48" y="96" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="72" letter-spacing="-3" fill="#F06A3F">02</text>
+<text x="220" y="66" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800" font-size="40" letter-spacing="-1.2" fill="#ECE8DE">HashTown</text>
+<text x="1152" y="60" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="1" fill="#8E897E">PIXEL-ART GPU MINING TYCOON.</text>
+<g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#8E897E"><text x="220" y="112">Walk the town, buy hardware, wire up rigs and mine HTC. Pool it in the</text><text x="220" y="136">Exchange for hourly payouts in real tokenized NVDA.</text></g>
+<rect x="220" y="160" width="156" height="28" fill="none" stroke="#ECE8DE" stroke-width="1.2"/><text x="229" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#ECE8DE">ROBINHOOD CHAIN</text><rect x="386.0" y="160" width="55" height="28" fill="none" stroke="#ECE8DE" stroke-width="1.2"/><text x="395.0" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#ECE8DE">GAME</text><rect x="450.8" y="160" width="147" height="28" fill="none" stroke="#ECE8DE" stroke-width="1.2"/><text x="459.8" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1" fill="#ECE8DE">TOKENIZED NVDA</text>
+<text x="1152" y="180" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="1" fill="#ECE8DE">VIEW REPO →</text>
+</svg>
