@@ -1,4 +1,4 @@
-<img alt="bruhmare" src="assets/banner.svg" width="100%">
+<img alt="bruhmare: the knight fights the three mantis lords" src="assets/mantis-lords.svg" width="100%">
 
 hey, i'm bruhmare. i design and code stuff on solana and robinhood chain. mostly things that move money, sometimes games.
 
