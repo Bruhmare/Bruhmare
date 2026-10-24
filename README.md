@@ -1,29 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="bruhmare: designer / developer" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="bruhmare" src="assets/banner.svg" width="100%">
 
-I design and build products on Solana and Robinhood Chain, from the interface down to the contracts and the backend that pays people out.
+hey, i'm bruhmare. i design and code stuff on solana and robinhood chain. mostly things that move money, sometimes games.
 
-<a href="https://github.com/Bruhmare/ape-for-good">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ape-dark.svg">
-    <img alt="01 Ape for Good: every GoFundMe, on-chain" src="assets/ape-light.svg" width="100%">
-  </picture>
-</a>
-<a href="https://github.com/Bruhmare/hashtown">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hashtown-dark.svg">
-    <img alt="02 HashTown: pixel-art GPU mining tycoon" src="assets/hashtown-light.svg" width="100%">
-  </picture>
-</a>
-<a href="https://github.com/Bruhmare/handl-finance">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/handl-dark.svg">
-    <img alt="03 handl: pay any X handle" src="assets/handl-light.svg" width="100%">
-  </picture>
-</a>
+<a href="https://github.com/Bruhmare/ape-for-good"><img alt="ape for good: every gofundme gets its own coin" src="assets/ape.svg" width="100%"></a>
+<a href="https://github.com/Bruhmare/hashtown"><img alt="hashtown: pixel gpu mining tycoon" src="assets/hashtown.svg" width="100%"></a>
+<a href="https://github.com/Bruhmare/handl-finance"><img alt="handl: send money to an x handle" src="assets/handl.svg" width="100%"></a>
 
-**Live:** [Ape for Good](https://charity-ruddy-mu.vercel.app) · [HashTown](https://www.hashtown.io) · [handl](https://handl.finance)
-
-**Toolbox:** JavaScript · TypeScript · SvelteKit · Node · Solidity · Solana web3
+live → [ape for good](https://charity-ruddy-mu.vercel.app) · [hashtown](https://www.hashtown.io) · [handl](https://handl.finance)
